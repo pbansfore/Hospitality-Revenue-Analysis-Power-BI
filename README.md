@@ -1,8 +1,8 @@
-# 🏨 AtliQ Grand Revenue Analysis
+# 🏨 AtliQ Group Revenue Analysis
 
 ## 📊 Project Overview
 
-This project presents a comprehensive revenue and performance analysis of AtliQ Grands, a premium hotel chain operating multiple five-star properties across India. Due to increased competition and operational inefficiencies, AtliQ Grands has experienced a decline in market share and revenue in the luxury/business hotel segment.
+This project presents a comprehensive revenue and performance analysis of AtliQ Group, a premium hotel chain operating multiple five-star properties across India. Due to increased competition and operational inefficiencies, AtliQ Group has experienced a decline in market share and revenue in the luxury/business hotel segment.
 
 Using key business intelligence insights, the project identifies revenue trends, occupancy rates, customer ratings, and operational bottlenecks, and suggests data-driven recommendations for business growth.
 
@@ -10,7 +10,7 @@ Using key business intelligence insights, the project identifies revenue trends,
 
 ## 🧩 Problem Statement
 
-AtliQ Grands has been in the hospitality business for over 20 years. Recently, the company has faced challenges including:
+AtliQ Group has been in the hospitality business for over 20 years. Recently, the company has faced challenges including:
 
 - Declining market share in luxury/business hotel segment.
 - Ineffective pricing models (ADR - Average Daily Rate).
@@ -22,7 +22,7 @@ AtliQ Grands has been in the hospitality business for over 20 years. Recently, t
 
 ## 🏨 Hotel & Data Overview
 
-- **Hotel Chain**: AtliQ Grands  
+- **Hotel Chain**: AtliQ Group  
 - **Operating Cities**: Mumbai, Bangalore, Hyderabad, Delhi  
 - **Total Properties**: 7 hotels across 4 cities  
 - **Room Categories**: Elite, Premium, Presidential, Standard  
