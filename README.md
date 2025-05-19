@@ -6,7 +6,9 @@ This project presents a comprehensive revenue and performance analysis of AtliQ 
 
 Using key business intelligence insights, the project identifies revenue trends, occupancy rates, customer ratings, and operational bottlenecks, and suggests data-driven recommendations for business growth.
 
+
 ---
+
 
 ## 🧩 Problem Statement
 
@@ -18,7 +20,9 @@ AtliQ Group has been in the hospitality business for over 20 years. Recently, th
 - Rising cancellations and low customer retention.
 - Lack of customer engagement through online booking platforms.
 
+
 ---
+
 
 ## 🏨 Hotel & Data Overview
 
@@ -28,14 +32,18 @@ AtliQ Group has been in the hospitality business for over 20 years. Recently, th
 - **Room Categories**: Elite, Premium, Presidential, Standard  
 - **Booking Platforms**: 6 major platforms + others (e.g., direct bookings, OTAs)
 
+
 ---
+
 
 ## 🛠️ Tools Used
 
 - 📊 Power BI — Interactive dashboards and visual storytelling.
 - 📑 Microsoft Excel — Initial Data cleaning and Data validation.
 
+
 ---
+
 
 ## 📌 Key Metrics
 
@@ -67,7 +75,9 @@ AtliQ Group has been in the hospitality business for over 20 years. Recently, th
 | Week Number    | Week of the year. |
 | WoW            | Week-on-Week change to track performance trends. |
 
+
 ---
+
 
 ## 📈 Key Insights
 - AtliQ Group has generated an overall revenue of 1.688 billion.
@@ -87,7 +97,9 @@ AtliQ Group has been in the hospitality business for over 20 years. Recently, th
 - Stagnant ADR strategy hindered growth and affected ratings.
 - Low staff and service quality impacted hotel reviews and customer retention.
 
+
 ---
+
 
 ## 🧠 Conclusion & Recommendations
 
