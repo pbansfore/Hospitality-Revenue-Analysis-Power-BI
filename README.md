@@ -30,6 +30,13 @@ AtliQ Grands has been in the hospitality business for over 20 years. Recently, t
 
 ---
 
+## 🛠️ Tools Used
+
+- 📊 Power BI — Interactive dashboards and visual storytelling.
+- 📑 Microsoft Excel — Data cleaning, preparation, and initial analysis.
+
+---
+
 ## 📌 Key Metrics
 
 ### 💰 Financial Metrics
@@ -87,13 +94,7 @@ AtliQ Grands has been in the hospitality business for over 20 years. Recently, t
 
 ---
 
-## 🛠️ Tools Used
 
-- 📊 Power BI — Interactive dashboards and visual storytelling.
-- 📑 Microsoft Excel — Data cleaning, preparation, and initial analysis.
-- 🗄️ SQL / MySQL — Backend data querying and aggregation.
 
----
 
-## 📂 Project Structure
 
