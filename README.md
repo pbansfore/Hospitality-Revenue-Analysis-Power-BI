@@ -70,7 +70,7 @@ AtliQ Group has been in the hospitality business for over 20 years. Recently, th
 ---
 
 ## 📈 Key Insights
-
+- AtliQ Group has generated an overall revenue of 1.688 billion.
 - Mumbai generated the highest revenue of $661 million, followed by Bangalore, Hyderabad, and Delhi.
 - AtliQ Exotica led high performance with:
   - Revenue: $316 million
