@@ -44,15 +44,15 @@ AtliQ Group has been in the hospitality business for over 20 years. Recently, th
 | Metric         | Description |
 |----------------|-------------|
 | Revenue        | Total income generated from bookings. |
-| RevPAR         | Revenue per available room: `RevPAR = Total Revenue / Total Rooms Available` or `ADR * Occupancy %` |
-| ADR            | Average Daily Rate per sold room: `ADR = Room Revenue / Rooms Sold` |
-| Cancellations  | Total booking cancellations recorded. |
+| RevPAR         | Revenue per available room: `RevPAR = Revenue / Total Capacity` or `ADR * Occupancy %` |
+| ADR            | Average Daily Rate per sold room: `ADR = Revenue / Total Bookings` |
+| Cancellation   | Total booking cancellations recorded. |
 
 ### 🚪 Performance Metrics
 
 | Metric         | Description |
 |----------------|-------------|
-| Occupancy %    | `Occupancy % = Rooms Occupied / Rooms Available` |
+| Occupancy %    | `Occupancy % = Total Successful Bookings / Total Capacity` |
 | Cancellation % | Percentage of total bookings that were cancelled. |
 | SRN            | Sellable Room Nights — Total rooms available to sell after exclusions. |
 | DSRN           | Daily Sellable Room Nights. |
@@ -72,7 +72,7 @@ AtliQ Group has been in the hospitality business for over 20 years. Recently, th
 ## 📈 Key Insights
 
 - Mumbai generated the highest revenue of ₹0.66 billion, followed by Bangalore, Hyderabad, and Delhi.
-- AtliQ Exotica led performance with:
+- AtliQ Exotica led high performance with:
   - Revenue: ₹320 million
   - Rating: 3.62
   - Occupancy: 57%
