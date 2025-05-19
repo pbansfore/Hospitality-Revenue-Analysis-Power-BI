@@ -71,13 +71,18 @@ AtliQ Group has been in the hospitality business for over 20 years. Recently, th
 
 ## 📈 Key Insights
 
-- Mumbai generated the highest revenue of ₹0.66 billion, followed by Bangalore, Hyderabad, and Delhi.
+- Mumbai generated the highest revenue of $661 million, followed by Bangalore, Hyderabad, and Delhi.
 - AtliQ Exotica led high performance with:
-  - Revenue: ₹320 million
+  - Revenue: $316 million
   - Rating: 3.62
-  - Occupancy: 57%
+  - Occupancy: 57.2%
   - Cancellation rate: 24.4%
-- May was the peak revenue month (₹0.58 billion).
+- AtliQ Seasons has lowest performance with:
+  - Revenue: $65 million
+  - Rating: 2.30
+  - Occupancy: 44.57%
+  - Cancellation rate: 24.81%
+- May was the peak revenue month ($582 million).
 - Elite-type rooms had the most bookings—and the highest cancellation rate.
 - Stagnant ADR strategy hindered growth and affected ratings.
 - Low staff and service quality impacted hotel reviews and customer retention.
