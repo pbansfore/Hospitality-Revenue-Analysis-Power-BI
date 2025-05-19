@@ -37,7 +37,7 @@ AtliQ Grands has been in the hospitality business for over 20 years. Recently, t
 | Metric         | Description |
 |----------------|-------------|
 | Revenue        | Total income generated from bookings. |
-| RevPAR         | Revenue per available room: `RevPAR = Total Revenue / Total Rooms Available` or `RevPAR = ADR * Occupancy %` |
+| RevPAR         | Revenue per available room: `RevPAR = Total Revenue / Total Rooms Available` or `ADR * Occupancy %` |
 | ADR            | Average Daily Rate per sold room: `ADR = Room Revenue / Rooms Sold` |
 | Cancellations  | Total booking cancellations recorded. |
 
