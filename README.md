@@ -1,2 +1,99 @@
-# Hospitality-Revenue-Analysis
-AtliQ Group owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. 
+# 🏨 AtliQ Grand Revenue Analysis
+
+## 📊 Project Overview
+
+This project presents a comprehensive revenue and performance analysis of AtliQ Grands, a premium hotel chain operating multiple five-star properties across India. Due to increased competition and operational inefficiencies, AtliQ Grands has experienced a decline in market share and revenue in the luxury/business hotel segment.
+
+Using key business intelligence insights, the project identifies revenue trends, occupancy rates, customer ratings, and operational bottlenecks, and suggests data-driven recommendations for business growth.
+
+---
+
+## 🧩 Problem Statement
+
+AtliQ Grands has been in the hospitality business for over 20 years. Recently, the company has faced challenges including:
+
+- Declining market share in luxury/business hotel segment.
+- Ineffective pricing models (ADR - Average Daily Rate).
+- Poor ratings and service quality.
+- Rising cancellations and low customer retention.
+- Lack of customer engagement through online booking platforms.
+
+---
+
+## 🏨 Hotel & Data Overview
+
+- **Hotel Chain**: AtliQ Grands  
+- **Operating Cities**: Mumbai, Bangalore, Hyderabad, Delhi  
+- **Total Properties**: 7 hotels across 4 cities  
+- **Room Categories**: Elite, Premium, Presidential, Standard  
+- **Booking Platforms**: 6 major platforms + others (e.g., direct bookings, OTAs)
+
+---
+
+## 📌 Key Metrics
+
+### 💰 Financial Metrics
+
+| Metric         | Description |
+|----------------|-------------|
+| Revenue        | Total income generated from bookings. |
+| RevPAR         | Revenue per available room: `RevPAR = Total Revenue / Total Rooms Available` or `RevPAR = ADR * Occupancy %` |
+| ADR            | Average Daily Rate per sold room: `ADR = Room Revenue / Rooms Sold` |
+| Cancellations  | Total booking cancellations recorded. |
+
+### 🚪 Performance Metrics
+
+| Metric         | Description |
+|----------------|-------------|
+| Occupancy %    | `Occupancy % = Rooms Occupied / Rooms Available` |
+| Cancellation % | Percentage of total bookings that were cancelled. |
+| SRN            | Sellable Room Nights — Total rooms available to sell after exclusions. |
+| DSRN           | Daily Sellable Room Nights. |
+| URN            | Utilized Room Nights — nights actually stayed by customers. |
+| DURN           | Daily Utilized Room Nights. |
+| BRN            | Booked Room Nights = `URN + Cancellations + No Shows` |
+| DBRN           | Daily Booked Room Nights. |
+| Realisation    | Booking realization: `Realisation = URN / BRN` |
+| Avg Rating     | Average rating per booking provided by customers. |
+| Day Type       | Categorized as Weekday (Sun–Thu) and Weekend (Fri–Sat). |
+| Booking Platforms | Includes AtliQ’s own platform + 6 major third-party platforms. |
+| Week Number    | Week of the year. |
+| WoW            | Week-on-Week change to track performance trends. |
+
+---
+
+## 📈 Key Insights
+
+- Mumbai generated the highest revenue of ₹0.66 billion, followed by Bangalore, Hyderabad, and Delhi.
+- AtliQ Exotica led performance with:
+  - Revenue: ₹320 million
+  - Rating: 3.62
+  - Occupancy: 57%
+  - Cancellation rate: 24.4%
+- May was the peak revenue month (₹0.58 billion).
+- Elite-type rooms had the most bookings—and the highest cancellation rate.
+- Stagnant ADR strategy hindered growth and affected ratings.
+- Low staff and service quality impacted hotel reviews and customer retention.
+
+---
+
+## 🧠 Conclusion & Recommendations
+
+- Implement dynamic pricing strategies to optimize ADR and RevPAR.
+- Enhance customer experience through staff training and service quality.
+- Strengthen direct booking channels with exclusive offers and loyalty benefits.
+- Use high-performing properties (e.g., AtliQ Exotica, Mumbai) as operational benchmarks.
+- Invest in digital marketing to reduce dependency on external booking platforms.
+
+---
+
+## 🛠️ Tools Used
+
+- 📊 Power BI — Interactive dashboards and visual storytelling.
+- 📑 Microsoft Excel — Data cleaning, preparation, and initial analysis.
+- 🗄️ SQL / MySQL — Backend data querying and aggregation.
+
+---
+
+## 📂 Project Structure
+
