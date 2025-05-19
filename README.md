@@ -33,7 +33,7 @@ AtliQ Group has been in the hospitality business for over 20 years. Recently, th
 ## 🛠️ Tools Used
 
 - 📊 Power BI — Interactive dashboards and visual storytelling.
-- 📑 Microsoft Excel — Data cleaning, preparation, and initial analysis.
+- 📑 Microsoft Excel — Data cleaning, Data Valiation, preparation, and initial analysis.
 
 ---
 
