@@ -111,7 +111,7 @@ AtliQ Group has been in the hospitality business for over 20 years. Recently, th
 
 ---
 
-## ▶️ Video Presentation: https://drive.google.com/file/d/10sy1we2NX7Ys2c0KF_XzdfI3aoSJFXEP/view?usp=drive_link
+## ▶️ Video Presentation: https://drive.google.com/file/d/10sy1we2NX7Ys2c0KF_XzdfI3aoSJFXEP/view?usp=sharing
    
 ---
 
